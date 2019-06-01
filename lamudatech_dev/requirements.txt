@@ -1,0 +1,6 @@
+requests==2.18.4
+python-dateutil==2.7.2
+selenium==3.11.0
+fake-useragent==0.1.10
+scrapy==1.5.0
+jsonpath==0.75

@@ -1,0 +1,478 @@
+{
+    "BFS": {
+        "marketCode": "uk",
+        "currency": "GBP"
+    },
+    "EDI": {
+        "marketCode": "uk",
+        "currency": "GBP"
+    },
+    "IBZ": {
+        "marketCode": "uk",
+        "currency": "GBP"
+    },
+    "LGW": {
+        "marketCode": "uk",
+        "currency": "GBP"
+    },
+    "ARN": {
+        "marketCode": "se",
+        "currency": "SEK"
+    },
+    "GOT": {
+        "marketCode": "se",
+        "currency": "SEK"
+    },
+    "KRN": {
+        "marketCode": "se",
+        "currency": "SEK"
+    },
+    "LLA": {
+        "marketCode": "se",
+        "currency": "SEK"
+    },
+    "MMX": {
+        "marketCode": "se",
+        "currency": "SEK"
+    },
+    "SFT": {
+        "marketCode": "se",
+        "currency": "SEK"
+    },
+    "UME": {
+        "marketCode": "se",
+        "currency": "SEK"
+    },
+    "ACE": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "AGA": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "AGP": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "ALC": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "AMS": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "ATH": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "AYT": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "BCN": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "BIA": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "BIO": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "BOD": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "BOJ": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "BUD": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "CDG": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "CFU": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "CGN": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "CHQ": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "CTA": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "DBV": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "DUB": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "DUS": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "DXB": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "FAO": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "FCO": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "FNC": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "GVA": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "HAJ": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "HAM": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "HEL": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "HER": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "JTR": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "KEF": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "LCA": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "LIS": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "LPA": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "MAD": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "MAN": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "MJV": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "MLA": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "MPL": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "MUC": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "MXP": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "NCE": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "OLB": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "ORK": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "ORY": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "OUL": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "PLQ": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "PMI": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "PMO": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "PRG": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "PRN": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "PSA": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "PUY": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "RAK": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "RHO": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "RIX": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "RVN": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "SJJ": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "SNN": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "SPU": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "SXF": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "TFN": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "TFS": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "TLL": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "TLV": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "VAR": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "VCE": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "VIE": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "VNO": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "VRN": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "ZAG": {
+        "marketCode": "en",
+        "currency": "EUR"
+    },
+    "AES": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "ALF": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "BDU": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "BEG": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "BGO": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "BOO": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "EVE": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "HAU": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "KKN": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "KRS": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "MOL": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "OSL": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "SVG": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "TOS": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "TRD": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "TRF": {
+        "marketCode": "dk",
+        "currency": "NOK"
+    },
+    "AUS": {
+        "marketCode": "us",
+        "currency": "USD"
+    },
+    "BOS": {
+        "marketCode": "us",
+        "currency": "USD"
+    },
+    "DEN": {
+        "marketCode": "us",
+        "currency": "USD"
+    },
+    "EWR": {
+        "marketCode": "us",
+        "currency": "USD"
+    },
+    "FLL": {
+        "marketCode": "us",
+        "currency": "USD"
+    },
+    "JFK": {
+        "marketCode": "us",
+        "currency": "USD"
+    },
+    "LAX": {
+        "marketCode": "us",
+        "currency": "USD"
+    },
+    "MCO": {
+        "marketCode": "us",
+        "currency": "USD"
+    },
+    "OAK": {
+        "marketCode": "us",
+        "currency": "USD"
+    },
+    "ORD": {
+        "marketCode": "us",
+        "currency": "USD"
+    },
+    "PVD": {
+        "marketCode": "us",
+        "currency": "USD"
+    },
+    "SEA": {
+        "marketCode": "us",
+        "currency": "USD"
+    },
+    "SWF": {
+        "marketCode": "us",
+        "currency": "USD"
+    },
+    "AAL": {
+        "marketCode": "dk",
+        "currency": "DKK"
+    },
+    "BLL": {
+        "marketCode": "dk",
+        "currency": "DKK"
+    },
+    "CPH": {
+        "marketCode": "dk",
+        "currency": "DKK"
+    },
+    "GDN": {
+        "marketCode": "pl",
+        "currency": "PLN"
+    },
+    "KRK": {
+        "marketCode": "pl",
+        "currency": "PLN"
+    },
+    "SZZ": {
+        "marketCode": "pl",
+        "currency": "PLN"
+    },
+    "WAW": {
+        "marketCode": "pl",
+        "currency": "PLN"
+    }
+}
