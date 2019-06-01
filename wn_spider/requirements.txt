@@ -1,0 +1,8 @@
+requests==2.18.4
+jsonpath==0.75
+selenium==3.11.0
+python-dateutil==2.7.2
+mitmproxy==4.0.4
+lxml==4.2.1
+PyGetWindow==0.0.1
+pyautogui==0.9.42
