@@ -1,0 +1,8 @@
+{
+	"server": "lon-5.wires.rocks",
+	"server_port": 17122,
+	"method": "aes-256-cfb",
+	"password": "7ChAUiPP",
+	"local_address": "127.0.0.1",
+	"local_port": 1080
+}
