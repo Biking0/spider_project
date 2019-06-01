@@ -1,0 +1,794 @@
+{
+    "msg": "",
+    "status": 0,
+    "data": {
+        "BSOMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "KLOMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "DVOTAG": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBBCD": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLZAM": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "NGOMNL": {
+            "currency": "JPY",
+            "tax": 1000
+        },
+        "DVOMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "DXBMNL": {
+            "currency": "AED",
+            "tax": 39
+        },
+        "MNLRXS": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLPAG": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLCGY": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "BXUCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "ILOPPS": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "ILOGES": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLBWN": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "GUMMNL": {
+            "currency": "USD",
+            "tax": 9
+        },
+        "HKGCEB": {
+            "currency": "HKD",
+            "tax": 0
+        },
+        "MNLICN": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "SJIMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "XMNMNL": {
+            "currency": "CNY",
+            "tax": 58
+        },
+        "MNLTPE": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "KIXMNL": {
+            "currency": "JPY",
+            "tax": 1000
+        },
+        "CEBHKG": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "ZAMCGY": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "BXUMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLILO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "TAGCGY": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLCAN": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "DVOCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBSUG": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MFMMNL": {
+            "currency": "MOP",
+            "tax": 75
+        },
+        "MNLNGO": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "CGYBCD": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLPEK": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "DPLMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "ZAMCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "TBHMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLCBO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "PVGMNL": {
+            "currency": "CNY",
+            "tax": 58
+        },
+        "MNLTAG": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLPPS": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CRKCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "ILOCGY": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBCRK": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLGES": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLBKK": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "DVOZAM": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MELMNL": {
+            "currency": "AUD",
+            "tax": 14
+        },
+        "MNLVRC": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLTBH": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "DVOILO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "TAGMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "ZAMCBO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CGYDVO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "BKIMNL": {
+            "currency": "MYR",
+            "tax": 37
+        },
+        "MNLCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLKLO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "ZAMMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "BCDDVO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "DVODGT": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBTAC": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLCYZ": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLWNP": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "TAGDVO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "IAOCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "IAOMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "HKGILO": {
+            "currency": "HKD",
+            "tax": 0
+        },
+        "CEBTDG": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "HANMNL": {
+            "currency": "USD",
+            "tax": 9
+        },
+        "CBOZAM": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "PPSILO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBPAG": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "ICNMNL": {
+            "currency": "KRW",
+            "tax": 10000
+        },
+        "MNLMBT": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBSIN": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "MNLPVG": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "NRTMNL": {
+            "currency": "JPY",
+            "tax": 1000
+        },
+        "HKGCRK": {
+            "currency": "HKD",
+            "tax": 0
+        },
+        "SUGCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "ILOSIN": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "MNLUSU": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "USUMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "KULMNL": {
+            "currency": "MYR",
+            "tax": 37
+        },
+        "PAGMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CGYTAG": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "TPEMNL": {
+            "currency": "TWD",
+            "tax": 270
+        },
+        "MNLDXB": {
+            "currency": "PHP",
+            "tax": 400
+        },
+        "MNLCGK": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "OZCCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "BWNMNL": {
+            "currency": "BND",
+            "tax": 12
+        },
+        "MBTMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBBXU": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "DVOSIN": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "FUKMNL": {
+            "currency": "JPY",
+            "tax": 1000
+        },
+        "DGTDVO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CGYMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBZAM": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "ZAMDVO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "BCDMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBCYP": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLSGN": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "CEBILO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLKUL": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "CEBLGP": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "DVOCGY": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "OZCMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBDPL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLNRT": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "PAGCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLIAO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "BKKMNL": {
+            "currency": "THB",
+            "tax": 360
+        },
+        "ICNCEB": {
+            "currency": "KRW",
+            "tax": 10000
+        },
+        "CANMNL": {
+            "currency": "CNY",
+            "tax": 58
+        },
+        "DGTCGY": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLHKG": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "NRTCEB": {
+            "currency": "JPY",
+            "tax": 1000
+        },
+        "TWTZAM": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "REPMNL": {
+            "currency": "USD",
+            "tax": 9
+        },
+        "CEBDGT": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "DPLCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CGYCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "BCDCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "DGTCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBCGY": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLDVO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MFMCRK": {
+            "currency": "MOP",
+            "tax": 75
+        },
+        "CGKMNL": {
+            "currency": "USD",
+            "tax": 9
+        },
+        "MNLBSO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBOZC": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CGMCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "WNPMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBICN": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "TDGCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLSIN": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "CEBGES": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLGUM": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "BCDCGY": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLLGP": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "GESMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBPPS": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "DGTMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "TACCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CBOMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "RXSMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "GESILO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "LGPMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "ILOCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "GESCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLHAN": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "MNLKIX": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "CEBIAO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CGYZAM": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "SINILO": {
+            "currency": "SGD",
+            "tax": 12
+        },
+        "SINDVO": {
+            "currency": "SGD",
+            "tax": 12
+        },
+        "ZAMTWT": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLBKI": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "HKGMNL": {
+            "currency": "HKD",
+            "tax": 0
+        },
+        "VRCMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "DPSMNL": {
+            "currency": "USD",
+            "tax": 9
+        },
+        "PEKMNL": {
+            "currency": "CNY",
+            "tax": 58
+        },
+        "PPSMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLFUK": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "MNLSYD": {
+            "currency": "PHP",
+            "tax": 400
+        },
+        "MNLBCD": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLTAC": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "TACMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "SINMNL": {
+            "currency": "SGD",
+            "tax": 12
+        },
+        "CYZMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBNRT": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "LGPCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "SINCEB": {
+            "currency": "SGD",
+            "tax": 12
+        },
+        "SINCRK": {
+            "currency": "SGD",
+            "tax": 12
+        },
+        "CGYILO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "SGNMNL": {
+            "currency": "USD",
+            "tax": 9
+        },
+        "TUGMNL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "DVOBCD": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "ILOHKG": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "CEBCGM": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLTUG": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLXMN": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "CRKMFM": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "MNLDPS": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "MNLREP": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "SYDMNL": {
+            "currency": "AUD",
+            "tax": 14
+        },
+        "MNLDGT": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "PPSCEB": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLMFM": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "MNLDPL": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLOZC": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CGYDGT": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CEBDVO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "MNLBXU": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CRKHKG": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "ILODVO": {
+            "currency": "PHP",
+            "tax": 280
+        },
+        "CRKSIN": {
+            "currency": "PHP",
+            "tax": 300
+        },
+        "ILOMNL": {
+            "currency": "PHP",
+            "tax": 280
+        }
+    }
+}
