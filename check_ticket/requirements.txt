@@ -1,0 +1,5 @@
+pdfminer3k
+func_timeout==4.3.0
+BS4
+lxml
+requests
